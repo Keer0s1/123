@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+  }
+  
+  main{
+    margin: 10px;
+    background-color: aqua;
+    display: flex;
+    justify-content:space-between ;
+    
+  }
+  
+  header, footer{
+    background-color: red;
+    
+  }
+  
+  .container{
+    height: 100%;
+  }
+ 
